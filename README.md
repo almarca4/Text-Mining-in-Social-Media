@@ -1,6 +1,6 @@
 # Text-Mining-in-Social-Media
-# Universidad Politécnica de Valencia
-# Máster en Big Data Analytics - 2017/2018
+## Universidad Politécnica de Valencia
+### Máster en Big Data Analytics - 2017/2018
 
 En este repositorio se encuentran todos los documentos necesarios para la asignatura de Text Mining in Social Media, es decir, la memoria o _paper_ donde se explica el procedimiento y conclusiones obtenidas del trabajo, así como los scripts necesarios para su consecución y la presentación.
 
